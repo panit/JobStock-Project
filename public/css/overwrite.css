@@ -1,0 +1,14 @@
+/*
+Homepage
+*/
+#header {
+	background-color: #313640;
+}
+.login-pop .form-row {
+	margin-right: 0;
+	margin-left: 0;
+}
+.login-pop .form-checkbox-radio {
+	width: auto;
+	margin-left: 20px;
+}

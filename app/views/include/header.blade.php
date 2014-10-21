@@ -41,16 +41,26 @@
                                 <div class="form-label col-md-3">
                                     <label></label>
                                 </div>
-                                <div class="form-input">
+                                <div class="form-input" align="center">
                                     <button type="submit" href="#" class="btn medium bg-orange" >
                                         <span class="button-content">Login</span>
-                                    </button>
-                                    <a href="javascript:;" class="btn medium bg-facebook">
+                                    </button><br/>
+                                    OR
+                                    <br/>
+                                    <a href="javascript:;" class="btn small bg-facebook">
                                         <span class="glyph-icon icon-separator">
                                             <i class="glyph-icon icon-facebook"></i>
                                         </span>
                                         <span class="button-content">
                                             Login with Facebook
+                                        </span>
+                                    </a>
+                                    <a href="javascript:;" class="btn small bg-google">
+                                        <span class="glyph-icon icon-separator">
+                                            <i class="glyph-icon icon-google"></i>
+                                        </span>
+                                        <span class="button-content">
+                                            Login with Google
                                         </span>
                                     </a>
                                 </div>

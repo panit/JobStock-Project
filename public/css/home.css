@@ -4,6 +4,9 @@
 .masthead .masthead-item {
 	min-height: 500px; 
 }
+.latest-job .masthead-item {
+	min-height: 700px; 
+}
 .background-cover {
 	background-position: 50% 0;
 	background-size: cover;

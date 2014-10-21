@@ -1,3 +1,8 @@
 /*
 *Main style
 */
+.background-cover {
+	background-position: 50% 0;
+	background-size: cover;
+	transition: all 0.5s ease;
+}

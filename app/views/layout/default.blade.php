@@ -26,6 +26,7 @@
 				<!-- AgileUI CSS Core -->
 			
 			{{ HTML::style('assets/css/minified/aui-production.min.css'); }}
+			{{ HTML::style('css/home.css'); }}
 			<!-- Theme UI -->
 			{{ HTML::style('assets/themes/minified/agileui/color-schemes/layouts/default.min.css'); }}
 			{{ HTML::style('assets/themes/minified/agileui/color-schemes/elements/default.min.css'); }}

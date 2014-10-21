@@ -11,6 +11,11 @@
 		{{HTML::image('images/feature.png','Job Feature',array('class'=>'img-responsive'))}}
 	</div>
 </section>
+<section class="latest-candidate">
+	<div class="masthead-item background-cover" style="background-image:url('{{asset('images/testimonals-bg-darker.jpg')}}');">
+			
+	</div>
+</section>
 <section class="latest-job">
 	<div class="masthead-item background-cover" style="background-image:url('{{asset('images/latest-job.png')}}');">
 			
@@ -25,6 +30,7 @@
 <section class="footer">
 	{{HTML::image('images/footer.png','Job Footer',array('class'=>'img-responsive'))}}
 </section>
+
 
 
 

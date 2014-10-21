@@ -7,6 +7,9 @@
 .latest-job .masthead-item {
 	min-height: 700px; 
 }
+.latest-candidate .masthead-item {
+	min-height: 500px; 
+}
 .background-cover {
 	background-position: 50% 0;
 	background-size: cover;

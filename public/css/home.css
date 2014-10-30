@@ -1,5 +1,6 @@
 .container {
 	max-width: 1280px;
+	margin: 0 auto;
 }
 #page-content {
 	padding: 0 !important;
@@ -41,4 +42,11 @@
 .latest-candidate img {
 	border-radius: 50%;
 	border: 4px solid #eee;
+}
+/*
+Feature
+*/
+.feature div {
+	background: #fff;
+	min-height: 400px;
 }

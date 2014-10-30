@@ -11,6 +11,13 @@
 		{{HTML::image('images/feature.png','Job Feature',array('class'=>'img-responsive'))}}
 	</div>
 </section>
+<section class="feature container">
+	<div class="row">
+		<div class="col-md-3 text-center">
+			asdfasdf
+		</div>
+	</div>
+</section>
 <section class="latest-candidate">
 	<div class="masthead-item background-cover" style="background-image:url('{{asset('images/testimonals-bg-darker.jpg')}}');">
 		<div class="col-md-8 container col-md-offset-2">
